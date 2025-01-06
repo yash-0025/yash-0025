@@ -48,7 +48,7 @@ Hello! I'm a passionate **MERN Stack Developer && Designer** turned into **Web3 
 
 | **Contest Name**       | **Platform**        | **Findings** | **Position** |
 |-------------------------|---------------------|--------------|--------------|
-| Oku's Contest | Sherlock          | [1H](https://github.com/sherlock-audit/2024-11-oku-judging/issues/849) & [1M](https://github.com/sherlock-audit/2024-11-oku-judging/issues/862) | 20th          |
+| **Oku's Contest** | **Sherlock**          | [1H](https://github.com/sherlock-audit/2024-11-oku-judging/issues/849) & [1M](https://github.com/sherlock-audit/2024-11-oku-judging/issues/862) | 20th          |
 
 
 ## 📫 Get in Touch
