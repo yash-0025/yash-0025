@@ -46,10 +46,11 @@ Hello! I'm a passionate **MERN Stack Developer && Designer** turned into **Web3 
 ---
 ## 🏆 Audit Portfolio
 
-| **Contest Name**       | **Platform**        | **Findings** | **Position** |
-|-------------------------|---------------------|--------------|--------------|
-| **Oku's Contest** | **Sherlock**          | [1H](https://github.com/sherlock-audit/2024-11-oku-judging/issues/849) & [1M](https://github.com/sherlock-audit/2024-11-oku-judging/issues/862) | 20th          |
-| **Crestal Network** | **Sherlock**          | [1H](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/459)  | 12th          |
+| **Contest Name**       | **Platform**        | **Language** | **Findings** | **Position** |
+|-------------------------|---------------------|--------------|--------------|--------------|
+| **Oku's Contest** | **Sherlock**          | Solidity          | [1H](https://github.com/sherlock-audit/2024-11-oku-judging/issues/849) & [1M](https://github.com/sherlock-audit/2024-11-oku-judging/issues/862) | 20th          |
+| **Crestal Network** | **Sherlock**          | Solidity          | [1H](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/459)  | 12th          |
+| **SymmIO** | **Sherlock**          | Solidity          | [1M](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/686)  | 18th          |
 
 
 ## 📫 Get in Touch
