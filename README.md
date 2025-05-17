@@ -1,31 +1,18 @@
-# 🚀 Hi there, I'm Yash! 
+# 💻 Hi, I'm Yash Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yash-0025&label=Profile%20views&color=0e75b6&style=flat)
-  ![Repos Badge](https://badges.pufler.dev/repos/yash-0025?color=blue&style=flat)
-  ![Commits Badge](https://badges.pufler.dev/commits/monthly/yash-0025)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Web3+Security+Auditor;Blockchain+Enthusiast;Open+Source+Contributor)
 
 </div>
 
-<!--
-**yash-0025/yash-0025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate **Full-Stack Developer** turned **Web3 Security Specialist** with expertise in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🚀 About Me
-
-Hello! I'm a passionate **MERN Stack Developer && Designer** turned into **Web3 Developer** turned to **Web3 Security Auditor** with a knack for building robust applications and securing decentralized ecosystems. I specialize in crafting scalable web applications and identifying vulnerabilities in smart contracts and decentralized protocols.
+- 🔐 Smart contract auditing and vulnerability detection
+- 🛠️ Building secure decentralized applications
+- 💡 Open-source contributor and tech community mentor
 
 ---
 
@@ -82,7 +69,7 @@ Here's the clean, raw markdown code for your GitHub stats section that you can d
 
 <div align="center">
   
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-0025&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)]
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-0025&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
   
 
 </div>
