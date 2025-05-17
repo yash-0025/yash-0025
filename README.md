@@ -82,7 +82,7 @@ Here's the clean, raw markdown code for your GitHub stats section that you can d
 
 <div align="center">
   
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-0025&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-0025&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)]
   
 
 </div>
