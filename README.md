@@ -16,7 +16,8 @@ I'm a passionate **Full-Stack Developer** turned **Web3 Security Specialist** wi
 
 - 🔐 Smart contract auditing and vulnerability detection
 - 🛠️ Building secure decentralized applications
-- 💡 Open-source contributor and tech community mentor
+- 🛠️ Building Full Stack Web Apps
+- 💡 Open-source contributor 
 
 ---
 
