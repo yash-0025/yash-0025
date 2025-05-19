@@ -2,7 +2,11 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Web3+Security+Auditor;Blockchain+Enthusiast;Open+Source+Contributor)
+  ![Profile Views](https://komarev.com/ghpvc/?username=yash-0025&color=blueviolet)
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yash-0025.yash-0025&left_color=blueviolet&right_color=pink)
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Web3.0+Developer;Web3.0+Security+Researcher+/+Auditor;Blockchain+Enthusiast;Open+Source+Contributor)
 
 </div>
 
@@ -57,11 +61,11 @@ Here's the clean, raw markdown code for your GitHub stats section that you can d
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=yash-0025&theme=radical&hide_border=true&background=0D1117&stroke=5CE1E6&ring=5CE1E6&fire=5CE1E6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=yash-0025&theme=radical&hide_border=true&background=0D1117&stroke=5CE1E6&ring=5CE1E6&fire=5CE1E6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
   
-  [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-0025&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+  ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-0025&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&text_color=FFFFFF)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-0025&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-0025&layout=compact&theme=radical&hide_border=truebg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
 
 </div>
 
@@ -78,7 +82,7 @@ Here's the clean, raw markdown code for your GitHub stats section that you can d
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yash-0025&theme=onedark&row=2&column=4&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=yash-0025&theme=onedark&row=2&column=4&no-frame=true&margin-w=15&margin-h=15)
   </div>
 
 
