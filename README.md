@@ -64,7 +64,7 @@ Here's the clean, raw markdown code for your GitHub stats section that you can d
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=yash-0025&theme=radical&hide_border=true&background=0D1117&stroke=5CE1E6&ring=5CE1E6&fire=5CE1E6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
   
-  ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-0025&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&text_color=FFFFFF)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-0025&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5CE1E6&icon_color=5CE1E6&text_color=FFFFFF&cache_seconds=1800)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-0025&layout=compact&theme=radical&hide_border=truebg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
 
@@ -93,7 +93,7 @@ Here's the clean, raw markdown code for your GitHub stats section that you can d
 - **GitHub**: [yash-0025](https://github.com/yash-0025)
 - **LinkedIn**: [yash-patel](https://www.linkedin.com/in/yash-patel-9343601b7/)
 - **Twitter**: [Yash-Patel](https://x.com/yash_patel2003)
-- **Portfolio**: [Yash's Portfolio](https://portfolio-yash0025s-projects.vercel.app/)
+- **Portfolio-Website**: [Yash's Portfolio](https://portfolio-yash0025s-projects.vercel.app/)
 
 ---
 
