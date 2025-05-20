@@ -54,10 +54,6 @@ I'm a passionate **Full-Stack Developer** turned **Web3 Security Specialist** wi
 
 
 
-
-Here's the clean, raw markdown code for your GitHub stats section that you can directly copy and paste:
-
-
 ## 🚀 My GitHub Stats
 
 <div align="center">
