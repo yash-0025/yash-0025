@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** turned **Web3 Security Specialist** with expertise in:
+I'm a passionate **Full-Stack** **[Web2 && Web3]** **Developer** turned **Web3 Security Researcher/Auditor** with expertise in:
 
 - 🔐 Smart contract auditing and vulnerability detection
 - 🛠️ Building secure decentralized applications
