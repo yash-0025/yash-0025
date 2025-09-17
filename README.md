@@ -59,17 +59,17 @@ I'm a passionate **Full-Stack** **[Web2 && Web3]** **Developer** turned **Web3 S
 <div align="center">
 
 <!-- Streak Stats - Theme: Radical -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=yash-0025&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yash-0025&theme=radical&hide_border=true)
 
-  <!-- Main Stats - Theme: TokyoNight -->
-  ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-0025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<!-- Main Stats - Theme: TokyoNight -->
+![Yash's GitHub stats](https://github-readme-stats-krot444s-projects.vercel.app/api?username=yash-0025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-  <!-- Top Languages - Theme: Gruvbox -->
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-0025&layout=compact&theme=radical&hide_border=truebg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
+<!-- Top Languages - Theme: Gruvbox -->
+![Top Languages](https://github-readme-stats-krot444s-projects.vercel.app/api/top-langs/?username=yash-0025&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
 </div>
 
 ## 🌟 Contribution Metrics
-
+https://github-readme-stats-krot444s-projects.vercel.app/
 <div align="center">
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-0025&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
