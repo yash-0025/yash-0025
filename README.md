@@ -71,7 +71,7 @@ I'm a passionate **Full-Stack** **[Web2 && Web3]** **Developer** turned **Web3 S
 </div>
 
 ## 🌟 Contribution Metrics
-https://github-readme-stats-krot444s-projects.vercel.app/
+
 <div align="center">
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-0025&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
