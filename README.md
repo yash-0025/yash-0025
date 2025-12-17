@@ -36,6 +36,9 @@ I'm a passionate **Full-Stack** **[Web2 && Web3]** **Developer** turned **Web3 S
 
 ### Web3 Security
 
+![Solana](https://img.shields.io/badge/Solana-%23000000.svg?style=for-the-badge&logo=solana&logoColor=00FFA3)
+![Anchor](https://img.shields.io/badge/Anchor-%23111111.svg?style=for-the-badge&logo=anchor&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23FFC107.svg?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Foundry](https://img.shields.io/badge/Foundry-%231F2023.svg?style=for-the-badge&logo=foundry&logoColor=white)
@@ -68,6 +71,11 @@ I'm a passionate **Full-Stack** **[Web2 && Web3]** **Developer** turned **Web3 S
 
 <!-- Top Languages - Theme: Gruvbox -->
 ![Top Languages](https://github-readme-stats-beta-eight-20.vercel.app//api/top-langs/?username=yash-0025&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=FFFFFF)
+
+<!-- Profile Summary Card -->
+![Yash's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-0025&theme=tokyonight)
+
+
 </div>
 
 ## 🌟 Contribution Metrics
