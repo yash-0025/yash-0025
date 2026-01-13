@@ -1,4 +1,6 @@
-# 💻 Hi, I'm Yash Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<div align="center">
+<h1>💻 Hi, I'm Yash Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+</div>
 
 <div align="center">
   
@@ -101,7 +103,7 @@ I'm a passionate **Full-Stack** **[Web2 && Web3]** **Developer** turned **Web3 S
 - **GitHub**: [yash-0025](https://github.com/yash-0025)
 - **LinkedIn**: [yash-patel](https://www.linkedin.com/in/yash-patel-9343601b7/)
 - **Twitter**: [Yash-Patel](https://x.com/yash_patel2003)
-- **Portfolio-Website**: [Yash's Portfolio](https://portfolio-yash0025s-projects.vercel.app/)
+- **Portfolio-Website**: [Yash's Portfolio](https://patelyash.in)
 
 ---
 
